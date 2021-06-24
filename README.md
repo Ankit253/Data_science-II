@@ -1,4 +1,4 @@
-# Probability Statistics and Random Processes.
+# Probability and Statistics (Data science 2)
 Repository contains lab projects from the IC252 course at IIT Mandi.  <br />
 
 LAB-2 : worked on Coditional probbility <br />
